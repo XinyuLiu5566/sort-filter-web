@@ -1,0 +1,17 @@
+.start-time {
+    position: absolute;
+    width: 15vw;
+    left: 30vw;
+}
+
+.end-time {
+    position: absolute;
+    width: 15vw;
+    left: 45vw;
+}
+
+.submit {
+    position: absolute;
+    left: 60vw;
+    top: 32px;
+}
